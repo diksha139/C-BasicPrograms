@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Linear_Search\Linear_Search\obj\Debug\Linear_Search.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Linear_Search\Linear_Search\obj\Debug\Linear_Search.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Linear_Search\Linear_Search\bin\Debug\Linear_Search.exe.config
+C:\Users\User\source\repos\Linear_Search\Linear_Search\bin\Debug\Linear_Search.exe
+C:\Users\User\source\repos\Linear_Search\Linear_Search\bin\Debug\Linear_Search.pdb
+C:\Users\User\source\repos\Linear_Search\Linear_Search\obj\Debug\Linear_Search.exe
+C:\Users\User\source\repos\Linear_Search\Linear_Search\obj\Debug\Linear_Search.pdb
+D:\VSPrograms\Linear_Search\Linear_Search\bin\Debug\Linear_Search.exe.config
+D:\VSPrograms\Linear_Search\Linear_Search\bin\Debug\Linear_Search.exe
+D:\VSPrograms\Linear_Search\Linear_Search\bin\Debug\Linear_Search.pdb
+D:\VSPrograms\Linear_Search\Linear_Search\obj\Debug\Linear_Search.csproj.AssemblyReference.cache
+D:\VSPrograms\Linear_Search\Linear_Search\obj\Debug\Linear_Search.csproj.CoreCompileInputs.cache
+D:\VSPrograms\Linear_Search\Linear_Search\obj\Debug\Linear_Search.exe
+D:\VSPrograms\Linear_Search\Linear_Search\obj\Debug\Linear_Search.pdb
