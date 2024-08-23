@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\Matrix_Multiplication\bin\Debug\Matrix_Multiplication.exe.config
+C:\Users\User\source\repos\Matrix_Multiplication\bin\Debug\Matrix_Multiplication.exe
+C:\Users\User\source\repos\Matrix_Multiplication\bin\Debug\Matrix_Multiplication.pdb
+C:\Users\User\source\repos\Matrix_Multiplication\obj\Debug\Matrix_Multiplication.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Matrix_Multiplication\obj\Debug\Matrix_Multiplication.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Matrix_Multiplication\obj\Debug\Matrix_Multiplication.exe
+C:\Users\User\source\repos\Matrix_Multiplication\obj\Debug\Matrix_Multiplication.pdb
