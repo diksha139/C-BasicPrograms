@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\Perfect Square\Perfect Square\bin\Debug\Perfect Square.exe.config
+C:\Users\User\source\repos\Perfect Square\Perfect Square\bin\Debug\Perfect Square.exe
+C:\Users\User\source\repos\Perfect Square\Perfect Square\bin\Debug\Perfect Square.pdb
+C:\Users\User\source\repos\Perfect Square\Perfect Square\obj\Debug\Perfect Square.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Perfect Square\Perfect Square\obj\Debug\Perfect Square.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Perfect Square\Perfect Square\obj\Debug\Perfect Square.exe
+C:\Users\User\source\repos\Perfect Square\Perfect Square\obj\Debug\Perfect Square.pdb
